@@ -56,5 +56,8 @@ chunk 9: https://huggingface.co/datasets/shahidul034/text_summarization_dataset9
 ## Citation
 If you use any resources included in this repository for your work, please kindly cite the following paper:
 ```
-M. S. Salim, H. Murad, D. Das and F. Ahmed, "BanglaGPT: A Generative Pretrained Transformer-Based Model for Bangla Language," 2023 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), Dhaka, Bangladesh, 2023, pp. 56-59, doi: 10.1109/ICICT4SD59951.2023.10303383. keywords: {Transformers;Tokenization;Encoding;Information and communication technology;Task analysis;Sustainable development;Bangla NLP;BanglaGPT;Bangla Text Generation Model},
+M. S. Salim, H. Murad, D. Das and F. Ahmed,
+"BanglaGPT: A Generative Pretrained Transformer-Based Model for Bangla Language,"
+2023 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), Dhaka, Bangladesh, 2023, pp. 56-59, doi: 10.1109/ICICT4SD59951.2023.10303383. 
+keywords: {Transformers;Tokenization;Encoding;Information and communication technology;Task analysis;Sustainable development;Bangla NLP;BanglaGPT;Bangla Text Generation Model},
 ```
