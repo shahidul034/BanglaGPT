@@ -2,7 +2,14 @@
 # BanglaGPT: A Generative Pretrained Transformer-Based Model for Bangla Language
 
 We have created a Bangla language model dataset called BanglaCLM using a 26.24 GB Bangla corpus scraped from several public websites. 
+Trained model: 
+https://huggingface.co/shahidul034/Bangla_text_generation
 
+https://huggingface.co/shahidul034/BanglaGPT_512
+
+https://huggingface.co/shahidul034/BanglaGPT
+
+https://huggingface.co/shahidul034/Bangla_text_generation
 
 ## Raw dataset link for text generation(Bangla)
 Chunk 1: https://huggingface.co/datasets/shahidul034/text_generation_model_data
